@@ -24,3 +24,6 @@ const movieDB = {
     ]
 };
 
+const adv = document.getElementsByClassName('promo__adv');
+adv[0].remove();
+
